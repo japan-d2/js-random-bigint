@@ -1,6 +1,6 @@
 {
   "name": "@japan-d2/random-bigint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A random number generator that generates random BigInt with the specified seed and maximum value using Xorshift.",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
