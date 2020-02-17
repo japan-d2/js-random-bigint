@@ -14,5 +14,7 @@ export declare class RandomGenerator {
     readonly c: bigint;
     constructor(spec: RandomGeneratorSpec);
     next(): bigint;
+    look(): bigint;
+    private fetch;
 }
 export {};

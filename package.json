@@ -1,6 +1,6 @@
 {
   "name": "@japan-d2/random-bigint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A random number generator that generates random BigInt with the specified seed and maximum value using Xorshift.",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
@@ -13,7 +13,9 @@
     "lib"
   ],
   "keywords": [
-    "id"
+    "bigint",
+    "random",
+    "xorshift"
   ],
   "author": "AOKI Yuto <yuto.aoki@japan-d2.com> (https://japan-d2.com)",
   "homepage": "https://github.com/japan-d2/random-bigint",
