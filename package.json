@@ -19,6 +19,10 @@
   ],
   "author": "AOKI Yuto <yuto.aoki@japan-d2.com> (https://japan-d2.com)",
   "homepage": "https://github.com/japan-d2/js-random-bigint",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/japan-d2/js-random-bigint.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=10.4.0"
